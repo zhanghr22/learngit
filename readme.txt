@@ -6,3 +6,7 @@
 1.使用git log命令查看以往版本
 2.使用git reset --hard HEAD^<numbers of version to back>回到n个版本前
 3.使用git reflog记录每一次命令例如commit id，以便回到最新版本
+
+撤销文件修改：
+1.
+2.
